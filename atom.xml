@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/OBcderMax/StarBoundDweller</id>
+    <id>https://obcdermax.github.io/StarBoundDweller/</id>
     <title>StarBoundDweller</title>
-    <updated>2021-09-03T09:10:10.782Z</updated>
+    <updated>2021-09-03T09:17:48.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/OBcderMax/StarBoundDweller"/>
-    <link rel="self" href="https://github.com/OBcderMax/StarBoundDweller/atom.xml"/>
+    <link rel="alternate" href="https://obcdermax.github.io/StarBoundDweller/"/>
+    <link rel="self" href="https://obcdermax.github.io/StarBoundDweller/atom.xml"/>
     <subtitle>Lost In Space</subtitle>
-    <logo>https://github.com/OBcderMax/StarBoundDweller/images/avatar.png</logo>
-    <icon>https://github.com/OBcderMax/StarBoundDweller/favicon.ico</icon>
+    <logo>https://obcdermax.github.io/StarBoundDweller/images/avatar.png</logo>
+    <icon>https://obcdermax.github.io/StarBoundDweller/favicon.ico</icon>
     <rights>All rights reserved 2021, StarBoundDweller</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/OBcderMax/StarBoundDweller/post/hello-gridea/</id>
-        <link href="https://github.com/OBcderMax/StarBoundDweller/post/hello-gridea/">
+        <id>https://obcdermax.github.io/StarBoundDweller/post/hello-gridea/</id>
+        <link href="https://obcdermax.github.io/StarBoundDweller/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
